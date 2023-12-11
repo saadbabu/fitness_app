@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "saad-fitnessapp-chatbot-jupa",
+  "private_key_id": "598819e6fe300df4af64d1da028b95077551546a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8P7BpGv+j/irH\nai8aQE1N2SeaWCQptu9i92sWq9NeYTWK0OC1te+Mo6v+IaICi7fE4LI2Jka4mfZM\nktF2cx212ADSGZruYHi6xdi86x9NxWPaYGFYywDUmEbuBNxmadFbhkTP7pHTCZi+\n+QIqxsxAun1L8UpsCuB+irEOaQessqUZRQAdbd3BLcXdkJOyFzr+4vPNC6aeedmq\nYKFgZ0djcM4BKlHslzvJHbJI/BJUS83AjEnzaktfT0yd9ZY39FOYgpKdflAkVaA1\npKSmr+NLpsWbPx2cBJgKe+vUwjTSya1MRLBBdHW8JtCRUNtijyhj+ktlDgNvAp0E\nCuFH++ENAgMBAAECggEAWOtqnFMk8uUxds2I30kFWuLaypSczFl9XQ2Kt4RFTLz1\nKhN9OUftlcyQBvQDD1nI3cXXWC2fVT5gcY4eQ+mfXJBh3tw6ayQFkw+2T5JuUHGP\nN400HlmRlFozkuWX6AZO3oEfSuqhVgKf9IExjVwnCeItIiyhH0TKAuvnM2vYNLHE\nN1G+7MjcT8Bx1BNBea6VrTeKo5WEASIG6ZNTukMXRNji2B5bAqRYdA1ZCwbZp6p/\nB07ZK5jnyWWMjer0wFwvbpCXAXuyKWXQG5YsLZ9GVTAAP9TYFLAyFcPwPDkTL5iC\nUNivdvKO+M6ZCnUxY79Gb0ZrQ9PM8ExgogqYd7noXwKBgQDjVUEa5cdx8WCUCP3m\nl25GyYsgy4GK9BJ35ga+OuH6nBGYBOgF1v6N29JpNX0cTgldg30Htbu3vCamYR3J\nDHeMKSH6GbrFLZPfMMMARtuw0nytwVYt2scrAA/ETVXegqMMv+Os5T0h9spPfox1\nuAIvZ0fvGdJf1vR27GqJAPhfswKBgQDT/Lh8g82YAP/0Bc9TVVD1It7213ISUMfy\nSn/s3egoz3VX0yg1n7vww2OhbRthXEiTuawQcyDQm2tzwGnPL1/rbC9fxZJ7WImh\nv4aIb9wrZADzvB0PnQyx1Q/vaOF4MUhhai4C8hU/o7lQ4aB6pZiFCrLPlmqGntAn\n4iLgmahcPwKBgGMKWXrmcKXriy/zWuqDPsAIPlzjTGTFQOaLiJSIAru0EtYwDQW+\nTNhw1JKRgxg5x0q+ZlJdkpLRneUOmnNkwxCFOxBC9WPCH5I1JD+Sn1PB4B+zA2Cm\n1+6b8EKNjsOKFo8PapmApcmOQ0Wu1HLU397XGDfLACRQ+eB1z1Qw4ASRAoGAC5y+\nZmO58Wesnatrzf7Qbn04hYELyKEQMt+N3mXRf9rNbMAuZbGYU/oADSmy5ERv3VfA\nay5DT+oTmsWhhi3sLTNB7RcfjQ4ui+O39OVbxCy4OKHHXcGWnm8zbkPqhfD9LAjq\n+FJWg6PuVNXnOpCzqCYL4X812qX8dRLYIkGIjXUCgYEAmmqjJGtAC9HN16F8yOPb\nfPzT1ubCg9hr/B35Kwa43vWy+XKkZf5FgNTHxx9cd+2jxh+XsAaT02II5EO52v0n\ncBkquNhcw2HTbSrO6tA9X47LIpZ6vkMSzrySWmH2ouNGskTc/vjaeupkuv1CfaCY\n+8aLRKMWB8LZwwimqdkwR5M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "saad-fitness-chatbot@saad-fitnessapp-chatbot-jupa.iam.gserviceaccount.com",
+  "client_id": "105485894837249277081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saad-fitness-chatbot%40saad-fitnessapp-chatbot-jupa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
